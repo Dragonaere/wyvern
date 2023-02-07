@@ -11,7 +11,7 @@ export default function Navbar() {
             </svg>
           </button>
         </div>
-        <Link href='/' className="text-4xl ml-7 cursor-pointer">Wyvernaere</Link>
+        <Link href='/' className="text-4xl ml-7 cursor-pointer">Wyvern</Link>
       </div>
       <div className="flex flex-row items-center min-w-0 basis-[728px] flex-shrink flex-grow-0">
         <div id="search" className="flex flex-grow flex-shrink basis-[1e-9px] py-1 ml-10">
