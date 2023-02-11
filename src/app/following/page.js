@@ -4,7 +4,7 @@ import Sidebar from '@/components/Sidebar';
 let page = "Following"
 
 export const metadata = {
-  title: `${page} - Wyvern`,
+  title: `${page}`,
 };
 
 export default function Page() {
