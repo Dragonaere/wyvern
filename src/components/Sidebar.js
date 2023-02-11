@@ -15,8 +15,9 @@ export default function Sidebar({page}) {
   } else if(page == "library") {
     library = "M4,20h14v1H3V6h1V20z M21,3v15H6V3H21z M17,10.5L11,7v7L17,10.5z";
   } else {
-    return;
+    
   }
+
   return (
     <div className="relative flex items-center flex-col w-[72px] bg-[#202020] h-screen max-h-screen	">
       <div className="mt-2">
