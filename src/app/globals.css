@@ -18,3 +18,17 @@ a {
     color-scheme: dark;
   }
 }
+
+body {
+  overflow-x: hidden;
+}
+
+html {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+::-webkit-scrollbar {
+  background-color: #121212;
+  display: none;
+}
